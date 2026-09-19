@@ -1,0 +1,10 @@
+#BlueJ class context
+#Fri Sep 18 22:40:25 CST 2026
+comment0.target=RecetaMedica
+comment1.params=idReceta indicacionesGenerales
+comment1.target=RecetaMedica(java.lang.String, java.lang.String)
+comment2.params=med
+comment2.target=void agregarMedicamento(Medicamento)
+comment3.target=java.util.List getMedicamentos()
+comment4.target=java.lang.String getIndicacionesGenerales()
+numComments=5

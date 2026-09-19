@@ -1,0 +1,12 @@
+#BlueJ class context
+#Fri Sep 18 22:40:36 CST 2026
+comment0.target=Mascota
+comment1.params=idMascota nombre especie raza edad peso duenio
+comment1.target=Mascota(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, double, Duenio)
+comment2.target=java.lang.String getIdMascota()
+comment3.target=java.lang.String getNombre()
+comment4.target=HistorialClinico getHistorial()
+comment5.target=Duenio getDuenio()
+comment6.params=peso
+comment6.target=void setPeso(double)
+numComments=7

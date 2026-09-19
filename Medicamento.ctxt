@@ -1,0 +1,7 @@
+#BlueJ class context
+#Fri Sep 18 22:40:08 CST 2026
+comment0.target=Medicamento
+comment1.params=nombre dosis frecuencia duracionDias
+comment1.target=Medicamento(java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=java.lang.String getDetalle()
+numComments=3

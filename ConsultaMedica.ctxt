@@ -1,0 +1,12 @@
+#BlueJ class context
+#Fri Sep 18 22:40:36 CST 2026
+comment0.target=ConsultaMedica
+comment1.params=idConsulta temperatura sintomas diagnostico veterinario
+comment1.target=ConsultaMedica(java.lang.String, double, java.lang.String, java.lang.String, Veterinario)
+comment2.params=receta
+comment2.target=void asignarReceta(RecetaMedica)
+comment3.target=java.lang.String getIdConsulta()
+comment4.target=java.lang.String getDiagnostico()
+comment5.target=RecetaMedica getReceta()
+comment6.target=java.time.LocalDateTime getFecha()
+numComments=7

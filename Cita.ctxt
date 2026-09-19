@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Sep 18 22:40:36 CST 2026
+comment0.target=Cita
+comment1.params=idCita fechaHora motivo mascota veterinario
+comment1.target=Cita(java.lang.String, java.time.LocalDateTime, java.lang.String, Mascota, Veterinario)
+comment2.target=void marcarCompletada()
+comment3.target=void cancelarCita()
+comment4.target=java.lang.String getEstado()
+numComments=5

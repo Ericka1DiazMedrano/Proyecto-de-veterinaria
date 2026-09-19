@@ -1,0 +1,10 @@
+#BlueJ class context
+#Fri Sep 18 22:40:36 CST 2026
+comment0.target=Duenio
+comment1.params=id nombre telefono direccion correo
+comment1.target=Duenio(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=mascota
+comment2.target=void agregarMascota(Mascota)
+comment3.target=java.util.List getMascotas()
+comment4.target=void mostrarInformacion()
+numComments=5

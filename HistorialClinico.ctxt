@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Sep 18 22:40:36 CST 2026
+comment0.target=HistorialClinico
+comment1.params=idHistorial
+comment1.target=HistorialClinico(java.lang.String)
+comment2.params=consulta
+comment2.target=void agregarConsulta(ConsultaMedica)
+comment3.target=java.util.List getConsultas()
+numComments=4
